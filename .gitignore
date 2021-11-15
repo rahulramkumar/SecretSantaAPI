@@ -1,0 +1,9 @@
+terraform/terraform.exe
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/.terraform
+terraform/.terraform.lock.hcl
+terraform/.terraform.tfstate.lock.info
+venv/
+.idea/
+build/secret-santa-deployment.zip
